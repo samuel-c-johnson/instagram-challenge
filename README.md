@@ -1,6 +1,48 @@
 Instagram Challenge
 ===================
 
+User Stories
+
+*Step 1 - MVP*
+```
+As a user
+So that I can show the World how great my life is
+I want to be able to post a photo
+```
+
+```
+As a user
+In case I want to get rid of a photo that is no longer cool
+I want to be able to delete a photo
+```
+
+```
+As a user
+So that I can let people know that I approve of their life
+I want to be able to 'like' a photo
+```
+
+```
+As a user
+In case I realise I no longer approve of someone's life
+I want to be able to remove a like from a photo
+```
+
+```
+As a user
+So that I can let people know my important opinion
+I want to be able to comment on a photo
+```
+
+```
+As a user
+So that I can see other people's comments
+I want to be able to view all comments for a photo
+```
+
+
+
+
 ## Instructions
 
 * Challenge time: one weekend
