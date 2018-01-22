@@ -5,7 +5,10 @@
     <title></title>
   </head>
   <body>
-    <%= image_tag @post.image.url(:medium) %>
-    <%= @post.title %>
+    <%= image_tag @post.image.url(:medium) %><br />
+    <%= @post.title %><br />
+    <p>
+    <%= link_to 'back', posts_path %>
+    </p>
   </body>
 </html>
