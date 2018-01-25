@@ -1,6 +1,9 @@
 Instagram Challenge
 ===================
 
+The challenge is to build a replica of the photo sharing app Instagram using ruby on rails.
+I enjoyed this challenge as I enjoy using rails. However I was ill over the weekend and so I was not able to do much of the challenge.
+
 User Stories
 
 *Step 1 - MVP*
